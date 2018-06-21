@@ -1,0 +1,25 @@
+.advanced_filters{
+}
+
+.advanced_toggle{
+    float: left;
+}
+
+.advanced_key_search{
+    float: right;
+}
+
+.advanced_key_search .as_remove{
+    cursor: pointer;
+}
+
+.advanced_key_search ul{
+    padding: 0;
+    margin: 0;
+}
+
+.advanced_key_search ul li{
+    list-style: none;
+    float: left;
+    margin-right: 10px;
+}

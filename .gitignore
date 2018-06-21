@@ -1,0 +1,23 @@
+dump.rdb
+node_modules/
+.idea/*
+bin/*
+dump.rdb
+*.js~
+*.log
+.idea
+*.out
+html/scripts/reactApp.js
+
+html/index.html
+html/login.html
+
+documentation/*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+html/scripts/loginApp.js

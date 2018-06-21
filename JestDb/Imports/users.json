@@ -1,0 +1,22 @@
+{
+    "_id": {
+        "$oid": "5a14704bc18d59472d3f6887"
+    },
+    "firstName": "Eddie",
+    "lastName": "Butler",
+    "userName": "eddie",
+    "email": "ebutler@ethamatics.com",
+    "password" : "$2a$10$320Y9itWdptT7/zRdSQEqOFMgIfmWtsiVymjrKl0t9TIEUna6SfWy",
+    "permissions": {       
+        "users": {
+            "update": {},
+            "read": {},
+            "create": {},
+            "delete": {}
+        }
+    },
+    "users": {
+        "create": {}
+    },
+    "updates": true
+}
